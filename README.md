@@ -1,5 +1,6 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# CV_link
+It's a CV presented as a webpage.
+Firstly make sure if there's any node.js using"node -v" in the terminal.
+If no, download one and unload it and make sure that /usr/local/bin is in your $PATH with "echo $PATH"&"which node" in the terminal.
+Create the frontend page by "npm create vite@latest frontend" and choose vue/JS/No experimental.
+Finally get the "http://localhost:5173/" and logout the dev server with "ctrl+c".
