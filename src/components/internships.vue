@@ -9,7 +9,6 @@
         v-for="(intern, index) in internships"
         :key="index"
         >
-        <div class = "dot"></div>
         <div class="card">
           <h3 class="company">{{ intern.company }}</h3>
           <div class="role">{{ intern.role }}</div>
@@ -79,14 +78,14 @@ const internships = [
 <style scoped>
 .internships {
   max-width: 1000px;
-  margin: 0;
+  margin: 50;
 }
 
 .title {
   text-align: center;
   font-size: 28px;
   font-weight: 600;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .timeline {
@@ -114,20 +113,9 @@ const internships = [
     width: 50%;
     padding: 10px 20px;
 }
-.dot {
-  position: absolute;
-  left: 50%;
-  top: 24px; /* 或者和 card 顶部对齐 */
-  width: 10px;
-  height: 10px;
-  background-color: #555;
-  border-radius: 50%;
-  transform: translateX(-50%);
-  z-index: 2;
-}
 
 .card {
-  max-width: 500px;
+  max-width: 700px;
   background: #fff;
   border-radius: 2px;
   padding: 16px;
