@@ -113,7 +113,18 @@ const internships = [
     width: 50%;
     padding: 10px 20px;
 }
+.details {
+  list-style-position: inside;   
+  padding-left: 20px;
+  margin: 8px 0 0;
+  text-align: left;
+}
 
+.details li {
+  text-align: left;
+  line-height: 1.6;
+  margin-bottom: 6px;
+}
 .card {
   max-width: 700px;
   background: #fff;
