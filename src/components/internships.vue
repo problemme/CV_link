@@ -101,7 +101,7 @@ const internships = [
   left: 60%;
   width: 2px;
   background-color: #e0e0e0;
-  transform: translateX(-40%);
+  transform: translateX(-60%);
 }
 
 .timeline-item {
