@@ -1,6 +1,6 @@
 <template>
   <section class="research">
-    <h2 class="title">Research % Projects</h2>
+    <h2 class="title">Research & Projects</h2>
 
     <div class="research-grid">
       <div
