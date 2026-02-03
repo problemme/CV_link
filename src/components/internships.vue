@@ -106,6 +106,7 @@ const internships = [
 }
 
 .timeline-item {
+    display:flex;
     position: relative;
     width: 50%;
     padding: 10px 20px;
