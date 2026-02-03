@@ -130,19 +130,5 @@ const internships = [
   padding: 16px;
   box-shadow: 0 6px 20px rgba(0,0,0,0.06);
 }
-.timeline-item.left {
-  justify-content: flex-end;
-}
-
-.timeline-item.right {
-  justify-content: flex-start;
-}
-.timeline-item.left .card {
-  margin-right: 40px;
-}
-
-.timeline-item.right .card {
-  margin-left: 40px;
-}
 
 </style>
