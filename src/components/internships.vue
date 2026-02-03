@@ -75,7 +75,7 @@ const internships = [
 <style scoped>
 .internships {
   max-width: 1000px;
-  margin: 50px auto;
+  margin: 30px auto 40px;
 }
 
 .title {
