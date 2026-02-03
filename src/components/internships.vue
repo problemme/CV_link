@@ -98,8 +98,8 @@ const internships = [
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 50%;
-  right: 50%;
+  left: 60%;
+  right: 40%;
   width: 2px;
   background-color: #e0e0e0;
   transform: translateX(-50%);
