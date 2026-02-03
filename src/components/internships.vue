@@ -41,11 +41,9 @@ const internships = [
         company: 'XIAOMI',
         role: 'Simulation Test Development Engineer Intern',
         details: [
-            'Develop navigation-related evaluators based on actual vehicle data from the back-end channel',
-            'and build a decision-making system for analysis, achieving an accuracy rate of 80%',
-            'Develop the simulation evaluator’s back-end interface (Python),define the interface Proto in support of completing the',
-            'annotation and configuration at the front end',
-            'Improve the visualization of self-driving information at the front-end webpage, adding the acceleration part'
+            'Develop navigation-related evaluators based on actual vehicle data from the back-end channel and build a decision-making system for analysis, achieving an accuracy rate of 80%',
+            'Develop the simulation evaluator’s back-end interface (Python),define the interface Proto in support of completing the annotation and configuration at the front end',
+            'Improve the visualization of self-driving information at the front-end webpage by adding the acceleration part'
     ]
     },
     {
@@ -68,8 +66,7 @@ const internships = [
         role:'Fixed Income Research Intern',
         details: [
             'Use SQL and EXCEL to collect and analyze the ifind bond index, and fit the sample bar interpolation function',
-            'Use python decision tree to classify user behavior, maximize information gain, and analyze the relationship',
-            'between insurance principal and insurance period'
+            'Use python decision tree to classify user behavior, maximize information gain, and analyze the relationship between insurance principal and insurance period'
         ]
     }
 ]
