@@ -125,7 +125,6 @@ const internships = [
 .card {
   position: relative;
   width: 420px;
-  margin: 0 auto;
   background: #fff;
   padding: 16px 20px;
   border-radius: 10px;
