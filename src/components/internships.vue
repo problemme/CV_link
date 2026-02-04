@@ -123,11 +123,12 @@ const internships = [
   margin-bottom: 6px;
 }
 .card {
-  max-width: 700px;
+  position: relative;
+  width: 420px;
+  margin: 0 auto;
   background: #fff;
-  border-radius: 2px;
-  padding: 16px;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+  padding: 16px 20px;
+  border-radius: 10px;
 }
 
 </style>
