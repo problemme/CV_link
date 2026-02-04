@@ -110,12 +110,7 @@ const internships = [
     width: 50%;
     padding: 10px 20px;
 }
-.card {
-  position: absolute;
-  width: 420px;
-  left: 50%;
-  transform: translateX(-75%);
-}
+
 .details {
   list-style-position: inside;   
   padding-left: 20px;
