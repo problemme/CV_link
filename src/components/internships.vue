@@ -122,12 +122,5 @@ const internships = [
   line-height: 1.6;
   margin-bottom: 6px;
 }
-.card {
-  position: relative;
-  width: 420px;
-  background: #fff;
-  padding: 16px 20px;
-  border-radius: 10px;
-}
 
 </style>
