@@ -112,7 +112,7 @@ const internships = [
 .timeline-item {
     display:flex;
     position: relative;
-    width: 100%;
+    width: 90%;
     padding: 10px 20px;
 }
 
@@ -130,7 +130,7 @@ const internships = [
 }
 .card {
   width: 420px;
-  margin: 50px auto;
+  margin: 50px 75px 25px;
   background: #fff;
   padding: 16px 20px;
   border-radius: 10px;
