@@ -130,7 +130,7 @@ const internships = [
 }
 .card {
   width: 420px;
-  margin: 0 auto;
+  margin: 50px auto;
   background: #fff;
   padding: 16px 20px;
   border-radius: 10px;
