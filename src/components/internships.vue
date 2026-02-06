@@ -31,15 +31,15 @@
 const internships = [
     {
         company: 'TikTok',
-        role: 'Front-end Development Engineer Intern',
+        role: 'LLM-driven Agent Front-end Development Intern',
         details: [
-            'Design front-end pages for Coze using JS frameworks',
-            'Participate in research and implementation of LLM-based agent frameworks'
+            'Design front-end pages for Coze with VUE framework,solving communication problems of json data between front-end and back-end with Websocket',
+            'Developed streaming UI components using Server-Sent Events (SSE), enabling incremental rendering of model outputs and improving interactive responsiveness'
         ]
     },
     {
         company: 'XIAOMI',
-        role: 'Simulation Test Development Engineer Intern',
+        role: 'Autonomous Driving Simulation Test Development Intern',
         details: [
             'Develop navigation-related evaluators based on actual vehicle data from the back-end channel and build a decision-making system for analysis, achieving an accuracy rate of 80%',
             'Develop the simulation evaluator’s back-end interface (Python),define the interface Proto in support of completing the annotation and configuration at the front end',
@@ -107,7 +107,7 @@ const internships = [
 .timeline-item {
     display:flex;
     position: relative;
-    width: 50%;
+    width: 100%;
     padding: 10px 20px;
 }
 
