@@ -5,7 +5,6 @@
     <div class="timeline">
       <div 
         class= "timeline-item"
-        :class="{ left: index % 2 === 0, right: index % 2 === 1 }"
         v-for="(intern, index) in internships"
         :key="index"
         >
@@ -85,6 +84,12 @@ const internships = [
   margin-bottom: 20px;
 }
 
+.company{
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
 .timeline {
   position: relative;
   display: flex;
@@ -123,5 +128,11 @@ const internships = [
   line-height: 1.6;
   margin-bottom: 6px;
 }
-
+.card {
+  width: 420px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 16px 20px;
+  border-radius: 10px;
+}
 </style>
