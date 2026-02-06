@@ -94,7 +94,7 @@ const internships = [
   position: relative;
   display: flex;
   flex-direction: column;
-  gap: 40px;
+  gap: 20px;
   padding: 40px 0;
 }
 
